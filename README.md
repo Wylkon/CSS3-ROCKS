@@ -1,7 +1,7 @@
 CSS3-ROCKS
 ==========
 
-Create powerful apps with just HTML5, CSS3.
+Create powerful apps with just HTML5 and CSS3.
 ------------------------------------------------------------
 
 CSS3-ROCKS is a CSS3 template with all tags for css3, and have a support for mobile WebKit browsers like iPhone, Nexus One, and Palm Pre.
